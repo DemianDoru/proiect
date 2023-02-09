@@ -27,13 +27,13 @@
                 <div class="swiper-wrapper">
 
                     <div class="swiper-slide"><img
-                            src="https://s3-alpha-sig.figma.com/img/e2c6/a699/0815043457d06b406e9bf5dab79646e8?Expires=1673827200&Signature=aSKTZHfYEfeyFVmdofxxMcL0v5CzJH1c2hhAtYzaGMqHCGgJ-4zVHFYB9d7mCmiuhAC7TQDOoe3WYHk5x0mqDRRmTxkXQ5P5PnHhkWB~0gizdwBRKql6016nD7PEkvIi~pYkOibYQvK4cSIFfANez2FH97AsoM044trustkJUCVZ~3Uq22rFwrDp-QRpL0c2McNKgiaIWUmp4XwZIIb~KAR6h0nWMy9OHpb~lW~Q-hrojm7l8dOfdPsmar6idfIeECFYgENeTo4q7nAD9zLvFihj-sUWyQDT4QbbBH6jVcGZPb5Ku3avpVctohxDic9kTi-3Z~eJZm7~uuYG2Rpp1w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                            src="/img/white-wine.png"
                             alt=""></div>
                     <div class="swiper-slide"><img
-                            src="https://s3-alpha-sig.figma.com/img/a5f3/6b28/bbff8baebbcacc5b15bee7e168fc5127?Expires=1673827200&Signature=pRiJtEu7JJ535nMldf2ImP1aRYJD0xu5AR9-LS6p~7tY4hp~sBiWGoV0nzmO-Yr-0aetNSNHkjmj4mwXPC6YEH4utuXUJxcYf0r08cSm5Ysbb~ytriYSSJyo5ECvB~xCj6gkef52edKNe12k6utY8zogmzuvqDHurkLO06YAtM74KYc7Ip9DxzgBPGF10SG0YskQRUhsds3YeQQYdb5~igj08W9IIgA5e-PInWO2XILL1MleOKBXx7c~s8WqJSOBW7ZChus2kPQtQcPmjHq1s8G6LZCP6uavMVMkZ~877a8-Rq4zYjM00MxZ8FrVR1esArs~OD0EUpMhzgGxtdEsnw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                            src="/img/red-wine.png"
                             alt=""></div>
                     <div class="swiper-slide"><img
-                            src="https://s3-alpha-sig.figma.com/img/52b6/6734/9b8a1238a40d2e132a3531a8b1f7ccd6?Expires=1673827200&Signature=TNmmjuwHFsBnLdWx1biJqKIN5nTl9xQ8JfhaaV2ByWxeRjwONKupI7~4LBb-xCCiKghjMVJAVivlMaIKzLey-awVGxBL5GriLlPr5ZkTlTgl1Ub2BHqUjpVLenhuGYdrplsKRX7LM5P5kWPYKBAVJByUWSHX~ELhVlVbmmU~4y-jLUw0fJo17uzmg8IUEh0k9aPizkPCHuyBQf~-I-wg40OZQLXa0jJft6k04gmHhqwgAcijVkp9qoAmNbYvJ1ZGgBnVLn~zR3LmZUlYcQMoKQLmWCCmGq8bZNpHC01PxYmWfZHIPkO7FMtL3gsz1tdoco5HJjpJWNCrVigMjgAvSQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                            src="/img/champaign.png"
                             alt=""></div>
                     <div class="swiper-slide"><img
                             src="https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"

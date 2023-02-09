@@ -39,7 +39,7 @@
                     La cerere ne putem ocupa de decorarea mobilierului si a meselor.
                     </p>
                  <img class="img"
-                    src="https://s3-alpha-sig.figma.com/img/4efa/16c9/5346d3d5a28db4e571b0078be24d6024?Expires=1673827200&Signature=h6wx1E~FB6BkLNrmJ1MNyKX3aN8rLEGW-Bf9C92z5obx3h3GbRVTCuPDbrCINsJf4pZC5OOeiiGKWMm3XRkblXktbak0SVaqQnKvdNQR-F7n6Z2mlBjwtE-RGR-vpnTW189KcD29Yf9CIysgotTWpf-kDU8C6gRh4nTcbDyignsXW9md705WnGUqPK34l8E8l4zMl0O-C26GZZUXnn8Cg6Q4qNM8NiL0nJ9z2FD2H7ytr8UCW-Gmg~hYsqYcAwieIj4MqIhcssFBecxfNrzZsATgNGVn1qdU9N3yERzvVeFf7ZD3cxRz2jix24u88B-txX3hxnH-iL6H5JOgBwj29A__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                    src="/img/botez-page.png"
                     alt=""> 
             </div>
         <div>

@@ -21,7 +21,7 @@
             <h1>Despre Noi</h1>
             <div>
                 <img class="img-top width padding"
-                    src="https://s3-alpha-sig.figma.com/img/3b93/ce44/71d10c0aa53b1df5048dc5d40de26908?Expires=1673827200&Signature=dI6WTvWMmeh0pgBd0JA86ByUuD3XdeMcqJIoI-sGkFkuq~2JP6-bxPMt1~gXS864uzg31D9~18sI9hmaZJrCo37YHXcexXm1eN9LZ8sPFPwCZsUm5OdyCPg~Nj9SK1l5WpTkDj3BjbwOdlJZII1yJG6WYrFkmcFdnNBeSkztOg9iiFuF7Ibin-MF4IF58R4z9HtgJULZhi0c4hCaKoqT7o~KcTSORqgjvqwys~yykGPHRXFJPhqUOq2Bz-K6-sm446Pc85HAeafou5ocBgGQtJwguT~FgEeFs4u549pu-LpMGzvUo1inqXmrtKEMOXziygqg4cvBLNef1mf6a4mPJg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                    src="/img/interior4.png"
                     alt="">
             </div>
             <div>
@@ -32,7 +32,7 @@
             </div>
             <div class="desccription-restaurant">
                 <img class="width padding"
-                    src="https://s3-alpha-sig.figma.com/img/8e7c/c5da/31c0a71b527684f28a7067d0787f7902?Expires=1673827200&Signature=S-xOBP9q8WAcwfPRa5rtBLzIpf~JwP~rZGqNev3TDEHZaNBdQmtx8rNt8e1IngpBDRWoodApUaMegZODY2Czgc60xiQC8vunnhPZAX8jMfjkGJJgIEJYe06i52PwVvn3vmcqzwzhFriSaqSQYTxeGSHODd60PsP~Uh4e2YZYZQehvsYXLpB-mC3LRY50IhgV~07PMROLMr3I4zxsJm2nSfo06oADTMQQSe8IOEhiH~61x2NZNNsU1CR7D8F~wJa~HBijPNDk-BbIunZO6ZMc87ZCGKA6IfxlZIQkSCofwId5XFMUTivvQWmvNSXpaDATJGAsSgHCydUbKyhZwbtITg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                    src="/img/interior5.png"
                     alt="">
                 <p class="p-img-local">
                 <h3>Locație</h3>  
@@ -55,7 +55,7 @@
             </div>
             <div class="arhitectura">
             <img class="width padding"
-                    src="https://s3-alpha-sig.figma.com/img/5f86/b047/995c64318a7d06570447c30927d26574?Expires=1673827200&Signature=Ma2q1IUcIoQfI8ow1Cqwm6xMkFDbh4QYALPPB3Ng7mCvUPmiBoQnK0WlnVn3K4bZvzyCFZHv7XsV~NeqnWqzKm77L00EX5VJbjqjX-hWR0VGAIipHXT-Srm3DNUQocbP83ySnWmAORfY2lxpNwXdyGBi5a3~u1-oTmw0q3-Ke66sdvnaPmb2Pmo~Cxo8ktz~w~CEodK17Dc9X3Q0ZOTIvr7tnTJ18UlLgvOFrQYGHRWCfulLPHS0jcxjhqHxiCnPoZqLfZJyV8AW9F4scczj1uICMCCwbkuHA9UOELqV6~MWXGwSvhASQgojmMQvfVG2k-Q-LmN9tmsKI3W9tfJs4A__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                    src="/img/local.png"
                     alt="">
                 <h3>Arhitectura</h3>
                     Restaurantul Demian’s se află intr-o cladire care a fost construită între anii
@@ -79,7 +79,7 @@
             </div>
             <div class="team">
                 <img class="width padding"
-                    src="https://s3-alpha-sig.figma.com/img/44af/8817/b33966d9cda3810f1ee9c8620b790ce8?Expires=1673827200&Signature=oKjhAKgtMw4TsGXsKvJKzt7QEeYanQzMDBxlot1BeaNTAwiTekBZ1iC9hmxjzs02zfq1ZvzEOUpc76o5RKmpU662Nsnrw~g0AHg445bV5odXkFKEpb~c0nQ20c-2wOT-WflCDjOdOXMb8GVg4-DuB6NaDpGioFihUV0NLTaLpuMLPzdM4mgRimaHS9jNPgmNXQMUoQu7FIR3MTLt9ES7Rwu5TyKFjTf2QL6u4Oi1dbd0xM0oBDm~jkYnyYlUmg52h0yrmEgoxcTY6Kxq23mJsv63UoqTorKPjjzYmUCsr-aW63XTp028ngTV5iDWOGnlThhFzjYOryB2HIhwCEdP-Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                    src="/img/team.png"
                     alt="">
                 <h3>Echipa noastră</h3>
                     <p>

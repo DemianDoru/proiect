@@ -48,7 +48,7 @@
                 </div>
                 <div class="happy-birthday">               
                      <img class="img"
-                        src="https://s3-alpha-sig.figma.com/img/7cd9/6815/42209d9e58b4fa09cf0148c793677cc3?Expires=1673827200&Signature=WiaxFnWriQAIkxk6nUg7ejXKSbIcJEyTnpt7LKjsGlgrOJRyd~jsfndEuk6q7KPrNUI7m8cboJogoHxob8xXhR~-KUI7QJHNVrbf4N5JogiCoRiuZdxux2pbQt5dqNxXYdKEdxTd3RiwdIXNn43tdiJdrOAAtQoLVCYD0PEO8Ap4PeeaFsKJMXZFQSTewvGVOsPovuiHuNFWpTnZ0yIFUO3zvaxNIF0RG~0vtz95UVyGgJ0iGhiEiz5STjkxuRidodvYRACZnqVKllJWX6dRwww089TUbgKydSNP-bY6UdnAiMjglQ8EqyiYCCAmN4IF5FitlvE0PiJwcDKqTWJ29A__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                        src="/img/happy-bth-page.png"
                         alt=""></div>
             </div>
             <div>
@@ -78,9 +78,9 @@
         </div>   
   
 </main>
-<?php 
-       @include('contact.php')
-       ?>
+<?php
+ @include('contact.php')
+?>
         
         <?php
         @include('footer.php')

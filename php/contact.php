@@ -1,6 +1,8 @@
 <head>
     <link rel="stylesheet" href="/css/contact.css">
 </head>
+<?php 
+     @include('header-v.php') ?>
 <div class="container">
             <div class="ConatcT">
                 <div class="content">
@@ -31,4 +33,8 @@
                     </form>
                 </div>
             </div>
+            
         </div>
+        <?php
+        @include('footer.php')
+    ?>

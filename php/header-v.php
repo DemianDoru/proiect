@@ -3,10 +3,9 @@
 </head>
 <header>
          <div class="logo"> 
-            <a href="/">
+            <a href="/php/">
                 <img class="logo"       
-                src="https://s3-alpha-sig.figma.com/img/f82d/2561/3fd263e5140de221cb5968258975722c?Expires=1674432000&Signature=QZ5c7IKPUSkcMWsSf8HuLVZKg0CLpV7~wxn3Z9kbrlWgrQP09EBLDRwGamXhQpixB7heTq0uL8IRTbqdOb3Lfi4-de9S4Mu4y~PRh9zNO9bitF70iyyZy8yLCVdggwsTry4yw3VN2-5AKPsfyegGY81HUUEL-NiM6mA3rsNfaNbLMM~SE8EyiyO3CHHNMTr2DswY810BgY73cYm7zPOI5yaki4lnI83YiqDmwK5l0Lhn~Q0cXDaI6TC6l7uhF4E1TZNzT89H8IJimK-3QCbVBmQJsirsl2WmkEHYDRZKhCCUdOy8Z9uqYzexy90dZWeEnqTRLj9PyVWqs7ZGH6RTFw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
-                alt="restaurant">
+                src="/img/logo-nav.png">
             </a>
         </div> 
         <div class="hamburger">

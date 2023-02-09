@@ -31,8 +31,7 @@
                             src="https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                             alt=""></div>
                     <div class="swiper-slide"><img
-                            src="https://s3-alpha-sig.figma.com/img/07bc/47ff/e066aa54552c50f7784d43d092ab895a?Expires=1673222400&Signature=JemRRJn-jhTE4JfrvMZiAArBJird9vrb~7QjODAspXjJbSB5yudnGSmBjtIyVXnpAHysn3L08Oti8ijeTZs~4DTt~JU-Zbg~Ei-dugbn3ffdMMnS6rtMn-mVATwOGZX8ordHh-bbD5aQNLKdwPRzk7bQsfdNsz9a4IRVzBMaITg8C0fdtyrdBwJEul569XnuZOtPL4gGGMAZLuk2ZM3PJwPGVFrK8Jrx5Fo~VkckManbLasxzWYNHjJDWVA2SEYsL0slthmJg9VggUnBxVz5ruwwDYxEF1D0wN0A7peejhEfoWb7QH4UVTizKh1K-gAIeQIB-E7POJN~Sa~N5UzJEQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
-                            alt=""></div>
+                    src="/img/img-food2.png"  alt=""></div>
                     <div class="swiper-slide"><img
                             src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                             alt=""></div>

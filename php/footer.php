@@ -7,7 +7,7 @@
             <div class="d-flex">
                 <a href="/">
                     <img class="logo"
-                        src="https://s3-alpha-sig.figma.com/img/f82d/2561/3fd263e5140de221cb5968258975722c?Expires=1674432000&Signature=QZ5c7IKPUSkcMWsSf8HuLVZKg0CLpV7~wxn3Z9kbrlWgrQP09EBLDRwGamXhQpixB7heTq0uL8IRTbqdOb3Lfi4-de9S4Mu4y~PRh9zNO9bitF70iyyZy8yLCVdggwsTry4yw3VN2-5AKPsfyegGY81HUUEL-NiM6mA3rsNfaNbLMM~SE8EyiyO3CHHNMTr2DswY810BgY73cYm7zPOI5yaki4lnI83YiqDmwK5l0Lhn~Q0cXDaI6TC6l7uhF4E1TZNzT89H8IJimK-3QCbVBmQJsirsl2WmkEHYDRZKhCCUdOy8Z9uqYzexy90dZWeEnqTRLj9PyVWqs7ZGH6RTFw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                        src="https://s3-alpha-sig.figma.com/img/f82d/2561/3fd263e5140de221cb5968258975722c?Expires=1676851200&Signature=jZj1vxCiz9PcA8hXxTFwkuY6PoaCi8Fec5b1q34OLk2iKuKJsutXYuAEPyJe-fQAZI-JYtWuAjNKxUax2rItJlaUdfLJKRjNsLTCJRvKdsaVk12B8pE9T8HF~6Whx9XVx4SpRhroE2u2t0p5aSK~pAozrxyng50OS7kTZLBbmvdqSqC~E3kvsYxFy5X18BWJWbbMaSvJFyNWCt8HzHVtA0vGwFBDrKGnUBOuzLXXe-FSMx6VFKHB9z1owofpirMX01NUlU8Uy-IqjUTTEAK8BcKTt2HmSD6KN-xqSh1iYL8yLVaNE1dxOsIuHYMEaxVLvmz1CGZTWm8oQjNacl3TOA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
                         alt="restaurant">
                 </a>
                 <h3>Demian's Restaurant</h3>
