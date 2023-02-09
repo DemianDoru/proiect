@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  height: 100%;
+}
+
+main {
+  width: 100%;
+  background-color: rgb(245, 244, 244);
+}
+
+.padding {
+  padding: 30px;
+}
+
+.container {
+  width: 80%;
+  margin: 0;
+  padding: 0px 15px;
+  position: relative;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    width: 80%;
+    margin: auto;
+  }
+}
+
+.background-img {
+  background-repeat: no-repeat;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  background-size: cover;
+  min-height: 100%;
+  background-image: url(https://s3-alpha-sig.figma.com/img/6a8b/f35e/12f3accf728f7f9043f839c8e6bf5be8?Expires=1673827200&Signature=XzL4sfEBz1f~GldlbuMjZJ9NP9OZiNDBau~LOxbjj3n~rBqtJLjWaRKR8DC6lp-u2bbJs8vxFSKIEPjL~Ev~LNIZqhiHDOExUUGr3GH9HdL8o2iHkHnq20a62jajbBZJ504RbwWo~a6epx4SlAx-XhfN8MiTEs1DrNPXgD175FNjXSuGkWwgIEdnvEIgj6Tq1qu7Tt8xN1bd~UDXmfofkVgK9hGk8pNpXMPH0ptlRKvmCEep1XZ0~CeDfDEVql~QGMk9YtI-JzeA5B~6Rt8zqM5VqaF2Vd3bHBYFXsceXwMWNm0bYLuQCtWINJJ-9gho1zBnXz5LGJgSEBZLv6ALvQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+}
+
+.margin-0 {
+  margin: 0;
+  text-align: center;
+  padding: 10px;
+  padding-top: 50px;
+  background-color: white;
+}
+
+::placeholder {
+  color: white;
+  font-size: 16px;
+}
+
+.btn-meniu {
+  position: absolute;
+  bottom: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
+  padding: 5px 25px;
+  background: #ef233c;
+  border-radius: 10px;
+  color: white;
+  border: 0;
+  box-shadow: 0 0 4px 3px rgb(0 0 0 / 50%);
+}
+
+.open {
+  position: absolute;
+  top: 95%;
+  left: 2%;
+}
+
+.day {
+  padding: 5px 5px;
+  text-align: center;
+  color: black;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+h2 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  padding: 10px;
+}
+
+.despre-noi {
+  display: flex;
+  flex-direction: column;
+}
+
+.padding-img {
+  padding: 10px;
+}
+
+.echipa {
+  width: 100%;
+  top: 80px;
+}
+
+.Meniuri {
+  padding: 10px;
+}
+
+.boh {
+  display: flex;
+}
+
+.relative {
+  position: relative;
+}
+
+.btn-center {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
+  padding: 5px 25px;
+  background: #ef233c;
+  border-radius: 10px;
+  color: white;
+  border: 0;
+  box-shadow: 0 0 4px 3px rgb(0 0 0 / 50%);
+}
+
+.img-meniuri {
+  width: 100%;
+}

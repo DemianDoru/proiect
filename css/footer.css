@@ -1,0 +1,32 @@
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: #ccc;
+}
+
+.footer-wrapper {
+  display: flex;
+  width: 100%;
+  background-color: #ffc300;
+  border: 2px solid black;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.footer-info-item {
+  list-style: none;
+}
+
+.footer-info {
+  flex: 1;
+}
+
+.footer-info ul {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 15px;
+}

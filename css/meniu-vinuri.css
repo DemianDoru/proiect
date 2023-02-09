@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    height: 100%;
+}
+
+main {
+    width: 100%;
+    background-color: rgb(245, 244, 244);
+}
+
+.padding {
+    padding: 30px;
+}
+
+.container {
+    width: 80%;
+    margin: 0;
+    padding: 0px 15px;
+    position: relative;
+}
+
+@media screen and (min-width: 768px) {
+    .container {
+        width: 80%;
+        margin: auto;
+    }
+}
+
+.swiper {
+    width: 50%;
+}
+
+.swiper-slide img {
+    width: 100%;
+}
+
+.ContaineR {
+    width: 100vw;
+    height: 232vh;
+    display: grid;
+    padding: 25px;
+
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 40px 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    box-sizing: border-box;
+}
+
+.ContaineR div {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.h2 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.Sampanii {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.vinuriSpumante {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+
+.vinuriAlbe {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 4;
+    grid-row-end: 6;
+}
+
+.vinuriRosii {
+    padding: 3px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 5;
+}
+
+.vinuriRoze {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 5;
+    grid-row-end: 6;
+}
+
+ul {
+    list-style: none;
+}
+
+.price-wine {
+    text-align: right;
+}
+
+h3 {
+    padding: 2px;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+}

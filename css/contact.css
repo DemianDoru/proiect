@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    height: 100%;
+}
+
+main {
+    width: 100%;
+    background-color: rgb(245, 244, 244);
+}
+
+.padding {
+    padding: 30px;
+}
+
+.container {
+    width: 80%;
+    margin: 0;
+    padding: 0px 15px;
+    position: relative;
+}
+
+@media screen and (min-width: 768px) {
+    .container {
+        width: 80%;
+        margin: auto;
+    }
+}
+
+h2 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.contact-align {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.p-style {
+    font-family: inherit;
+    font-size: larger;
+}
+
+.nume-rezervare {
+    width: 100%;
+    height: 40px;
+    background: #6c757d;
+    color: white;
+}
+
+::placeholder {
+    color: white;
+    font-size: 16px;
+}
+
+.Send-msg {
+    background: red;
+    border-radius: 20px;
+    width: 35%;
+    padding: 6px;
+    position: relative;
+    left: 28%;
+    color: white;
+}
