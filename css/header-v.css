@@ -75,6 +75,25 @@ header {
   background: #020101;
 }
 
+.sub-menu {
+  display: none;
+}
+.dropdown-menu:hover .sub-menu {
+  display: block;
+  position: absolute;
+  margin-left: 120px;
+  background: #ffc300;
+}
+.sub-menu2 {
+  display: none;
+}
+.dropdown-menu-2:hover .sub-menu2 {
+  display: block;
+  position: absolute;
+  margin-left: 120px;
+  background: #ffc300;
+}
+
 @media only screen and (max-width: 1440px) {
   header {
     padding: 0 50px;

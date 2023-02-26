@@ -29,7 +29,7 @@
                             src="/img/interior1.png"
                             alt=""></div>
                     <div class="swiper-slide"><img
-                            src="/img/interior2.png"
+                            src="/img/poza-3.jpeg"
                             alt=""></div>
                     <div class="swiper-slide"><img
                             src="/img/interior3.png"
@@ -42,11 +42,12 @@
                 </div>
                 <div class="padding">
                     <div> <br>
-                        <p>Evenimentele speciale din viața ta merită sărbătorite într-un restaurant la fel
-                            de special.
+                        <h2>Evenimentele speciale din viața ta merită sărbătorite într-un restaurant la fel
+                            de special</h2>
                             <br>
                             <br>
-                            Cu o locație elegantă și primitoare, Restaurantul Demian’s este alături de tine atunci când vrei
+                            <p>
+                            Cu o locație elegantă și primitoare, Restaurantul Universitarului este alături de tine atunci când vrei
                             să
                             organizezi: botezuri, mese festive sau evenimente corporate care vor impresiona oaspeții într-un
                             mod
@@ -86,10 +87,11 @@
                 </div>
             </div>
             <div class="padding">
-                <p>
-                    De ce să organizezi un Eveniment la Demian's Restaurant :
+                <h2>
+                    De ce să organizezi un Eveniment la Restaurantul Universitarului : </h2>
                     <br>
                     <br>
+                    <p>
                     Sărbătorește oriunde vrei <br>
                     În grupuri mici în interiorul restaurantului, într-o sală privată de până la 80 de persoane sau în
                     grădina naturală de pe acoperiș.
@@ -97,7 +99,7 @@
                     <br>
                     Potrivit pentru toată lumea <br>
                     Există specialități din pește, feluri principale pe bază de carne și primele feluri din bucătăria
-                    romană.
+                    română.
                     <br>
                     <br>
                     Parcare privată <br>

@@ -53,11 +53,11 @@
             </div>
             <div>
                 <p class="p-description">
-
-                    De ce să organizezi un Eveniment la Restaurantul Demian’s :
+                    <h2>
+                    De ce să organizezi un Eveniment la Restaurantul Universitarului </h2>
                     <br>
                     <br>
-
+                    <p>
                     Sărbătorește oriunde vrei <br>
                     În grupuri mici în interiorul restaurantului,sau într-o sală privată de până la 80 de persoane sau
                     în
@@ -79,10 +79,9 @@
   
 </main>
 <?php
- @include('contact.php')
+ @include('rezerva-acum.php')
 ?>
-        
-        <?php
+  <?php
         @include('footer.php')
-        ?>
+    ?>
 </html>

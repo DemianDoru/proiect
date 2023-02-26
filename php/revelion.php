@@ -34,11 +34,11 @@
     </div>
 </main>
 <?php 
-       @include('contact.php')
+       @include('rezerva-acum.php')
        ?>
         
         <?php
         @include('footer.php')
-        ?>
+    ?>
         </body>
 </html>

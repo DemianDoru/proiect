@@ -14,21 +14,22 @@
         @include('header-v.php')
     ?>
     <main>
-      <div class="container">
+      <div class="container-botez">
         <div class="h1">
             <h1>Botez</h1>
         </div>
         <div class="h2">
-            <h2>Restaurantul perfect pentru botezul copilului tau</h2>
+            <h2>Restaurantul perfect pentru botezul copilului tău</h2>
+            <br>
         </div>
-        <div class="content">
+        <div class="content-botez">
             <div class="p-of-img">
-                <p>Daca esti in cautarea unei locatii in care sa organizezi un pranz sau cina in urma unui Botez,
-                    restaurantul Consolini este locul potrivit.
+                <p>Daca esti in cautarea unei locatii in care sa organizezi un prânz sau cină in urma unui Botez,
+                    Restaurantul Universitarului este locul potrivit.
                     În 30 de ani de istorie am găzduit 500 de botezuri.
                     <br>
                     <br>
-                    Valoarea adăugată a restaurantului Demian's se numește Arianna, persoana care a sfătuit mereu
+                    Valoarea adăugată a Restaurantului Universitarului se numește Arianna, persoana care a sfătuit mereu
                     oaspeții
                     în alegerea meniului, în alegerea oricăror decorațiuni pentru mobilier sau în cea a centrelor de
                     masă.
@@ -44,18 +45,19 @@
             </div>
         <div>
             <p class="offer">
-                De ce să organizezi un Eveniment la Restaurantul Demian’s :
-                <br>
+            <br>
+                <h3>De ce să organizezi un Eveniment la Restaurantul Universitarului :</h3>
+              
                 <br>
                 Sărbătorește oriunde vrei <br>
-                În grupuri mici în interiorul restaurantului,sau într-o sală privată de până la 80 de persoane sau în
+                În grupuri mici în interiorul restaurantului, sau într-o sală privată de până la 80 de persoane sau în
                 grădina
                 naturală de pe acoperiș.
                 <br>
                 <br>
                 Potrivit pentru toată lumea <br>
                 Există specialități din pește, feluri principale pe bază de carne și primele feluri din bucătăria
-                romană.
+                română.
                 <br>
                 <br>
                 Parcare privată <br>
@@ -64,10 +66,9 @@
         </div>
 </main>
 <?php 
-       @include('contact.php')
+       @include('rezerva-acum.php')
        ?>
-        
-        <?php
+         <?php
         @include('footer.php')
-        ?>
+    ?>
 </html>

@@ -1,40 +1,44 @@
 body {
-    margin: 0;
-    height: 100%;
+  margin: 0;
+  height: 100%;
 }
 
 main {
-    width: 100%;
-    background-color: rgb(245, 244, 244);
+  width: 100%;
+  background-color: rgb(245, 244, 244);
 }
 
 .padding {
-    padding: 30px;
+  padding: 30px;
 }
 
 .container {
-    width: 80%;
-    margin: 0;
-    padding: 0px 15px;
-    position: relative;
+  width: 80%;
+  margin: 0;
+  padding: 0px 15px;
+  position: relative;
 }
 
 @media screen and (min-width: 768px) {
-    .container {
-        width: 80%;
-        margin: auto;
-    }
+  .container {
+    width: 80%;
+    margin: auto;
+  }
 }
 
 h1 {
-    padding-top: 50px;
-    text-align: center;
+  padding-top: 50px;
+  text-align: center;
 }
 
 .width {
-    width: 100%;
+  width: 100%;
 }
 
 .img-top {
-    border-radius: 30px;
+  border-radius: 30px;
+}
+
+.pad-p-bottom {
+  padding-bottom: 40px;
 }

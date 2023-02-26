@@ -25,10 +25,10 @@
                     alt="">
             </div>
             <div>
-                <h2>Demian's Restaurant</h2>
-                <h3>Un restaurant în centrul Oradiei, cu un design impunător : 2 etaje , fiecare etaj
+                <h2>Restaurantul Universitarului</h2>
+                <p>Un restaurant în centrul Oradiei, cu un design impunător : 2 etaje , fiecare etaj
                     cu design diferit și cu spațiul propriu de restaurație complet autonom, 2 terase cu grădină și
-                    parcare privată pentru clienți noștri. </h3>
+                    parcare privată pentru clienți noștri. </p>
             </div>
             <div class="desccription-restaurant">
                 <img class="width padding"
@@ -82,7 +82,7 @@
                     src="/img/team.png"
                     alt="">
                 <h3>Echipa noastră</h3>
-                    <p>
+                    <p class="pad-p-bottom">
                     Bucătăria nu va înceta să evolueze... noi suntem ocupați în fiecare zi să perfecționam rezultatele
                     cu o zi înainte... acest lucru ne onorează și ne responsabilizează... ne place să lucrăm în
                     acelașitempo

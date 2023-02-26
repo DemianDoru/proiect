@@ -1,0 +1,81 @@
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.content .first-part {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.content .second-part {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+body {
+  margin: 0;
+  height: 100%;
+}
+
+main {
+  width: 100%;
+}
+
+.padding {
+  padding: 30px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px 15px;
+  position: relative;
+}
+@media screen and (max-width: 915px) {
+  .content {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+h2 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.contact-align {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.p-style {
+  font-family: inherit;
+  font-size: larger;
+}
+
+.nume-rezervare {
+  width: 100%;
+  height: 40px;
+  background: #6c757d;
+  color: white;
+}
+
+::placeholder {
+  color: white;
+  font-size: 16px;
+}
+
+.Send-msg {
+  background: red;
+  border-radius: 20px;
+  width: 35%;
+  padding: 6px;
+  position: relative;
+  left: 28%;
+  color: white;
+}

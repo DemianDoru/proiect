@@ -1,15 +1,22 @@
 <head>
-    <link rel="stylesheet" href="/css/contact.css">
+    <link rel="stylesheet" href="/css/rezerva-acum.css">
 </head>
+
 <div class="container">
             <div class="ConatcT">
                 <div class="content">
-                    <h1 class="contact-align">Contact</h1>
-                    <p class="p-style">Ne găsești la aceași adresă, în același loc sau la nr de telefon 0743 433 223</p>
+                    <div class="first-part">
+                    <h1 class="contact-align">Rezervă Acum!</h1>
+                    <br>
+                    <p class="p-style">Ne găsești la aceași adresă, în același loc sau la nr de telefon <b>0743 433 223</b></p>
+                    <br>
                     <p class="p-style">Noi vă înțelegem nevoile și vă vom oferim mâncare pentru a satisface poftele dvs. atât
-                        aspectul câtși gustul.</p>
+                        aspectul cât și gustul.</p>
+                        <br>
                     <p class="p-style"><strong>Rezervă</strong> o masă și dacă ai cerințe speciale lasă-ne și un mesaj:</p>
-                    <!-- <form action="mailto:someone@example.com?subject=Rezervare masa" method="post" enctype="text/plain"> -->
+                    <br>
+                    </div>
+                     <div class="second-part">   
                     <form action="/send-mail.php" method="post"">
                         <p><input class="nume-rezervare" type="text" placeholder="Nume rezervare"
                                 required name="name">
@@ -25,10 +32,14 @@
                             <textarea 
                                 class="nume-rezervare" 
                                 name="message"
-                                required>Mesaj sau cerinte speciale</textarea>
+                                required>Mesaj sau cerințe speciale</textarea>
                         </p>
-                        <p><button class="Send-msg" type="submit" >Rezervă o masă!</button></p>
+                        <br>
+                        <p><button class="Send-msg" type="submit" >Rezervă acum o masă!</button></p>
                     </form>
+                    </div>
+                    </div> 
                 </div>
             </div>
+            
         </div>

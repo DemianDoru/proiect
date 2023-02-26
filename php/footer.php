@@ -5,12 +5,12 @@
     <div class="footer-wrapper">
         <div style="padding-right: 15px;">
             <div class="d-flex">
-                <a href="/">
+                <a href="/php/index.php">
                     <img class="logo"
-                        src="https://s3-alpha-sig.figma.com/img/f82d/2561/3fd263e5140de221cb5968258975722c?Expires=1676851200&Signature=jZj1vxCiz9PcA8hXxTFwkuY6PoaCi8Fec5b1q34OLk2iKuKJsutXYuAEPyJe-fQAZI-JYtWuAjNKxUax2rItJlaUdfLJKRjNsLTCJRvKdsaVk12B8pE9T8HF~6Whx9XVx4SpRhroE2u2t0p5aSK~pAozrxyng50OS7kTZLBbmvdqSqC~E3kvsYxFy5X18BWJWbbMaSvJFyNWCt8HzHVtA0vGwFBDrKGnUBOuzLXXe-FSMx6VFKHB9z1owofpirMX01NUlU8Uy-IqjUTTEAK8BcKTt2HmSD6KN-xqSh1iYL8yLVaNE1dxOsIuHYMEaxVLvmz1CGZTWm8oQjNacl3TOA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+                        src="/img/logo-nav.png"
                         alt="restaurant">
                 </a>
-                <h3>Demian's Restaurant</h3>
+                <h3>Restaurantul Universitarului</h3>
             </div>
             <div class="social-links">
                 <a href="/fb">

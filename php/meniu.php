@@ -26,7 +26,10 @@
                     <img style="width: 100%;"
                         src="/img/img-food2.png"
                         alt="">
+                        <br>
                     <h2 style="text-align: center;">Restaurantul din inima Oradiei</h2>
+                    <p>Misiunea noastră este să transformăm orice întâlnire, fie că este vorba de o cină în doi, sau o seară de grup, într-o experiență memorabilă. Pregătim totul în cel mai mic detaliu, astfel încât tu să te simți special de fiecare dată când treci pe la noi. Te așteptăm cu un meniu variat cu preparate din caren, paste, vinuri alese și deserturi delicioase.</p>
+                    <br>
                             <div>
                                 <div class="direction-img">
                                     <img class="img-style" style="padding-right: 5px;" 
@@ -39,7 +42,10 @@
                             </div>
             </div> 
             <div>
+                <br>
                 <h2 class="design-h" style="text-align: center">Meniuri pentru evenimente speciale</h2>
+                <br>
+                <p>La Restaurantul Universitarului poți organiza și evenimente speciale pentru care poți alege meniuri potrivite tematicii evenimentului și numărului de participanți. Decorul unic, mâncarea savuroasă, atmosfera rafinată și serviciile excelente sunt condimentele unei petreceri pe care oaspeții tăi nu o vor uita prea curând!</p>
                 <div>
 
                     <div class="meniuri-evenimente">

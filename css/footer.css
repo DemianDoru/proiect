@@ -30,3 +30,13 @@ footer {
   grid-template-columns: auto auto;
   gap: 15px;
 }
+
+@media only screen and (max-width: 900px) {
+  .footer-wrapper {
+    display: flex;
+    width: 100%;
+    background-color: #ffc300;
+    border: 2px solid black;
+    flex-direction: column;
+  }
+}

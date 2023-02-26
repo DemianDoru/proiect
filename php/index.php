@@ -8,9 +8,9 @@
     <main>
         <div class="container" >
             <div class="background-img">
-                <h1 class="margin-0">Demian Restaurant</h1>
+                <h1 class="margin-0">Restaurantul Universitarului</h1>
 
-                <button class="btn-meniu"  a href="#meniu"></a>Meniu</button>
+                <button ><a class='btn-meniu' href="/php/meniu#about">Meniu</a></button>
 
                 <div class="open">
                     <span class="day">Luni - Duminica 12.00 - 23.00</span>
@@ -35,8 +35,8 @@
                     <img class="echipa"
                         src="/img/interior4.png"                       
                          alt="">
-                    <p class="echipa">Restaurantul nostru dispune de o capacitate de 85 de locuri, deschis zilnic intre
-                        orele 07:30 si
+                    <p class="echipa">Restaurantul nostru dispune de o capacitate de 85 de locuri. Este deschis zilnic intre
+                        orele 12:00 si
                         22:00.
                     </p>
                 </div>
@@ -51,14 +51,14 @@
                             src="/img/men-mancare.png"
                             alt="">
 
-                        <button class="btn-center" href="/Meniu.html">Meniu mancare</button>
+                        <button><a class="btn-center" href="/php/meniu-mancare.php">Meniu mâncare</a></button>
 
                     </div>
                     <div class="bauturi relative">
                         <img class="img-meniuri" style="padding-left: 5px;"
                             src="https://images.unsplash.com/photo-1568213816046-0ee1c42bd559?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"
                             alt="">
-                        <button class="btn-center" href="/Meniu.html">Meniu bauturi</button>
+                        <button><a class="btn-center" href="/php/meniu-vinuri.php">Meniu vinuri</a></button>
                     </div>
                 </div>
             </div>
@@ -66,8 +66,11 @@
         </div>
         </div>
         <?php 
-       @include('contact.php')
+       @include('rezerva-acum.php')
        ?>
+         <?php
+        @include('footer.php')
+    ?>
 </main>
 
 </body>
