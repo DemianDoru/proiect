@@ -8,7 +8,7 @@
     <main>
         <div class="container" >
             <div class="background-img">
-                <h1 class="margin-0">Restaurantul Universitarului</h1>
+                <h1 class="margin-0">Restaurantul Universitarului!</h1>
 
                 <button ><a class='btn-meniu' href="/php/meniu#about">Meniu</a></button>
 
@@ -26,7 +26,7 @@
                 <div class="despre-noi padding-img">
 
 
-                    <p>Echipa noastră, este o echipă renumită și formată prin mulți ani de experiență</p>
+                    <p>Echipa noastră, este o echipă renumită și formată prin mulți ani de experiență!</p>
                     <img class="echipa"
                         src="/img/kitchen.png"
                         alt="">
@@ -51,7 +51,7 @@
                             src="/img/men-mancare.png"
                             alt="">
 
-                        <button><a class="btn-center" href="/php/meniu-mancare.php">Meniu mâncare</a></button>
+                        <button><a class="btn-center" href="/php/meniu-mancare.php">Meniu mâncare!</a></button>
 
                     </div>
                     <div class="bauturi relative">
