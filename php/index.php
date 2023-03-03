@@ -13,7 +13,7 @@
                 <button ><a class='btn-meniu' href="/php/meniu#about">Meniu</a></button>
 
                 <div class="open">
-                    <span class="day">Luni - Duminica 12.00 - 23.00</span>
+                    <span class="day">Luni - Duminica 12.00 - 23.00!</span>
                 </div>
 
             </div>
