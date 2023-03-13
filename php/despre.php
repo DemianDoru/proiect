@@ -36,7 +36,7 @@
                     alt="">
                 <p class="p-img-local">
                 <h3>Locație</h3>  
-                    Restaurantul Demian’s are menirea de a-ți purta simțurile într-un itinerar
+                    Restaurantul Universitarului are menirea de a-ți purta simțurile într-un itinerar
                     culinar în
                     care poți savura
                     mâncărurile specifice bucătariei moderne, cu accent pe preparate din carne.
@@ -58,7 +58,7 @@
                     src="/img/local.png"
                     alt="">
                 <h3>Arhitectura</h3>
-                    Restaurantul Demian’s se află intr-o cladire care a fost construită între anii
+                    Restaurantul Universitarului se află intr-o cladire care a fost construită între anii
                     1902-1906, într-un stil arhitectural eclectic cu adânci urme de secession.
                     <br>
                     <br>
@@ -72,7 +72,7 @@
                     <br>
                     <br>
                    <h3> Renovare completă</h3>
-                    Alături de poezia arhitecturii, clădirea unde se află restaurantul Demian’s
+                    Alături de poezia arhitecturii, clădirea unde se află restaurantul Universitarului
                     a fost restaurat adăugându-i-se și elemente de noutate, combinând
                     clasicul cu modernul.
                 </p> 

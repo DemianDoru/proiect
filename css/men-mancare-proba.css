@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+}
+.card {
+  flex: 1;
+  overflow: hidden;
+}
+.card img {
+  object-fit: cover;
+  filter: grayscale(1);
+}
+.card:hover {
+  flex: 3;
+}
+.card:hover img {
+  filter: none;
+}

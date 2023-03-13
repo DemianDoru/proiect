@@ -131,15 +131,27 @@ header {
   }
 
   .nav-bar {
-    height: 0;
-    position: absolute;
-    top: 50px;
-    left: 0;
+    position: fixed;
     right: 0;
-    width: 100%;
+    width: 250px;
+    height: 100%;
     background: #ffc300;
     transition: 0.5s;
-    overflow: hidden;
+    transform: translateX(0);
+    /* overflow: hidden; */
+
+    /* height: 100%;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    padding-top: 50px;
+    z-index: 1;
+    width: 250px;
+    background: #ffc300;
+    transition: 0.5s;
+    transform: translateX(0);
+
+    overflow: hidden; */
   }
 
   .nav-bar.active {
@@ -169,7 +181,7 @@ header {
     display: flex;
     flex-direction: column;
     position: absolute;
-    top: 100%;
+    right: 100%;
     background: #ffc300;
   }
 

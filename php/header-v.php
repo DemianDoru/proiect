@@ -18,7 +18,7 @@
                     <li><a href="/php/meniu#about" class="active" ><i class="fa fa-cutlery"></i>Meniu</a>
                         <div class="dropdown-menu">
                             <ul>
-                                <li><a href="/php/meniu#about">Meniu</a>
+                                <li><a href="/php/meniu#about">Meniu<i class="fa fa-chevron-right"></a></i>
                                 <div class="sub-menu">
                                 <ul>
                                     <li><a href="/php/meniu-mancare.php">Meniu mâncare</a></li>
